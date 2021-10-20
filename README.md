@@ -4,7 +4,7 @@ Source du dataset: https://www.kaggle.com/azathoth42/myanimelist?select=AnimeLis
 
 ## Problématique :
 
-- Qu'est-ce qui pourrait caractériser la popularité d'un anime
+- Pour les boites de production d'animes, qu'est-ce qui pourrait caractériser la popularité de ces derniers afin de prévoir les tendances.
 
 ## Modalités d’évaluation 
 - 4 compétences évaluées 
